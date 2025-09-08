@@ -36,7 +36,7 @@ A simple Python automation tool that uses **Selenium** to download the first 100
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/pinterest-image-downloader.git
+    git clone https://github.com/your-username/Pinterest-Image-Auto-Downloader.git
     cd pinterest-image-downloader
     ```
 
